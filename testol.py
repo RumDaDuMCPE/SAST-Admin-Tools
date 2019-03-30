@@ -63,7 +63,7 @@ class Toplevel1:
             [('selected', _compcolor), ('active',_ana2color)])
 
         top.geometry("600x450+466+152")
-        top.title("SAST Admin Tools")
+        top.title("SAST Database manager")
         top.configure(background="#d9d9d9")
 
         self.Custom1 = testol_support.Custom(top)
